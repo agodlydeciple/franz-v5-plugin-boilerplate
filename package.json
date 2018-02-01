@@ -1,0 +1,15 @@
+{
+    "id": "",
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "MIT",
+    "repository": "",
+    "config": {
+        "serviceURL": "",
+        "hasNotificationSound": false,
+        "hasTeamID": false
+    }
+}
